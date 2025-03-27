@@ -16,8 +16,8 @@ AirBrush-AI is a real-time computer vision application that allows users to draw
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AirBrush-AI.git
-   cd AirBrush-AI
+   git clone https://github.com/Vidhyadhar75/Air-Brush-AI.git
+   cd Air-Brush-AI
    ```
 2. Install dependencies:
    ```bash
@@ -28,7 +28,7 @@ AirBrush-AI is a real-time computer vision application that allows users to draw
 
 Run the script:
 ```bash
-python airbrush_ai.py
+python drawing.py
 ```
 
 ## 📊 How It Works
